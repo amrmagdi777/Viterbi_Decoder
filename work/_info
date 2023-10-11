@@ -1,0 +1,196 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\AMR\Downloads\Viterbi_Algoritm
+vbranch_metric
+!i10b 1
+Z1 !s100 ;V:jRKP5B1D7LOc=mo1bi2
+Z2 IcjWLQ4PlB4[YFXzY7L@`^2
+Z3 VDoP_OelS3OCM852izmRa73
+Z4 dC:\Users\AMR\Downloads\Viterbi_Algoritm
+w1697054216
+Z5 8Branch_Metric.v
+Z6 FBranch_Metric.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z8 !s108 1697054221.226000
+Z9 !s107 Test_Bench.v|Viterbi_Fsm.v|Viterbi_Decoder.v|Trace_Back.v|Reg_File.v|Path_Metric.v|Next_Idx.v|Min_8.v|Hamming_Distance.v|Branch_Metric.v|
+Z10 !s90 Branch_Metric.v|Hamming_Distance.v|Min_8.v|Next_Idx.v|Path_Metric.v|Reg_File.v|Trace_Back.v|Viterbi_Decoder.v|Viterbi_Fsm.v|Test_Bench.v|
+!s101 -O0
+o-O0
+vhamming_distance
+!i10b 1
+Z11 !s100 1TUa?^9_j0JU1[2D@`m7>0
+Z12 IoZH^`9];j`dT@:nDT_I^V1
+Z13 V`0e[;J1cIX9UE^WfVCB563
+R4
+Z14 w1683623575
+Z15 8Hamming_Distance.v
+Z16 FHamming_Distance.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vmin_8
+!i10b 1
+Z17 !s100 G7DUVSUF=Dj7BL9__E3P`0
+Z18 IgPIE8dG=6JZiM0hTk9_Nc2
+Z19 VSgV:JaU3bWV<1JBLg0J=i0
+R4
+Z20 w1680994672
+Z21 8Min_8.v
+Z22 FMin_8.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vnext_idx
+!i10b 1
+Z23 !s100 _PX?gY2nYzMOb4^_cV9eb1
+Z24 IHgi>S33ISmiO9aDnYi@<J1
+Z25 Vl7Kzz9fJaP3dm0W0SVEYT0
+R4
+Z26 w1689159375
+Z27 8Next_Idx.v
+Z28 FNext_Idx.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vpath_metric
+!i10b 1
+Z29 !s100 QJU];QKe69E;XF1eQK^A]3
+Z30 IhUFF5ZCZ<a`FiA`Q=KlUO2
+Z31 V4UHBczknBhmVgPk3;2doU1
+R4
+Z32 w1681513797
+Z33 8Path_Metric.v
+Z34 FPath_Metric.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vRegFile
+!i10b 1
+Z35 !s100 jU=dXA]F36[Vb`eS7<X;83
+Z36 I06DVHbBU@?IJc^EmK9;On3
+Z37 VQ5FLXfYn7^aENXZNgKSZk3
+R4
+Z38 w1681175035
+Z39 8Reg_File.v
+Z40 FReg_File.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+Z41 n@reg@file
+vtest_bench
+!i10b 1
+Z42 !s100 m<8?C><gGhWWSNic8k:6j0
+Z43 I^QmK`fNH[:U]00IgHT^mH3
+Z44 VEJNK5ZO7TWUP1egUA9^TR1
+R4
+Z45 w1689160261
+Z46 8Test_Bench.v
+Z47 FTest_Bench.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vtrace_back
+!i10b 1
+Z48 !s100 RTNFblU4[?^[mV90V[<QM3
+Z49 II1S:`i2W=C4SOdY=1?T=:1
+Z50 V<lJAJVh27L3W?42e9@VK=0
+R4
+Z51 w1689161029
+Z52 8Trace_Back.v
+Z53 FTrace_Back.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vveterbi_decoder
+!i10b 1
+Z54 !s100 V9;fU_LJTNQ625hWW;lWG1
+Z55 IaZgV[LTAXER:860TIa[P?1
+Z56 VngCdNHGekF;[h8ffjzWc32
+R4
+Z57 w1689159921
+Z58 8Viterbi_Decoder.v
+Z59 FViterbi_Decoder.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
+vveterbi_fsm
+!i10b 1
+Z60 !s100 ZNNe5Ic:iPMH7cfNX:0Vg0
+Z61 I6mak[gG^GKzGzAFdSTG8T3
+Z62 V^B:zRWUe7>>Zc3Bo@i[OH1
+R4
+Z63 w1681532398
+Z64 8Viterbi_Fsm.v
+Z65 FViterbi_Fsm.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+o-O0
